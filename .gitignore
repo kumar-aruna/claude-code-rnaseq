@@ -1,0 +1,17 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+
+# Install logs (not part of the analysis)
+install*.log
+install*.txt
+
+# Large / regenerable intermediates
+results/dds_step1.rds
+
+# Keep the .gz; the uncompressed matrix is regenerable from it
+data/*.tsv
