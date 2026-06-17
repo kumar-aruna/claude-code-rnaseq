@@ -6,6 +6,12 @@ end-to-end with [Claude Code](https://code.claude.com). The project doubles as a
 worked example of **using an AI coding agent to go from a raw GEO accession to
 validated biological insight.**
 
+> I built this project to learn two things at once: how to run a real RNA-seq
+> differential expression analysis, and how to drive an AI coding agent (Claude Code)
+> to do it rigorously — planning each step, reviewing the code, and validating the
+> results against known biology. This repo is both the result and a record of that
+> process.
+
 ---
 
 ## TL;DR — what was found
